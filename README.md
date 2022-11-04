@@ -1,7 +1,7 @@
 # react-hangman
 A Simple hangman game
 
-Use npm build to install the dependencies and use npm run dev to start
+Use "npm i" install the dependencies and use "npm run dev" to start
 
 OR
 
